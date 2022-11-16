@@ -1,0 +1,8 @@
+prefix=/home/mahoma/Workspace-Prueba/Ros-Prueba/install
+
+Name: prueba1_pkg
+Description: Description of prueba1_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

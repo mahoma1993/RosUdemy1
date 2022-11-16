@@ -1,0 +1,6 @@
+<launch>
+  <node name="rpm_pub_node" pkg="prueba1_pkg" type="publisherej1.py" />
+  <param name="wheel_radius" value="2" type="int" />
+  <node name="velo_sub_node" pkg="prueba1_pkg" type="subsejere1.py" />
+  
+</launch>

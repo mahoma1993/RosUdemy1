@@ -1,0 +1,2 @@
+prueba1_pkg
+-DCATKIN_DEVEL_PREFIX=/home/mahoma/Workspace-Prueba/Ros-Prueba/devel -DCMAKE_INSTALL_PREFIX=/home/mahoma/Workspace-Prueba/Ros-Prueba/install -G Unix Makefiles
