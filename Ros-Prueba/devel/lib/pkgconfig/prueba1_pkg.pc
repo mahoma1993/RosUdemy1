@@ -1,8 +1,8 @@
-prefix=/home/mahoma/Workspace-Prueba/Ros-Prueba/devel
+prefix=/home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/devel
 
 Name: prueba1_pkg
 Description: Description of prueba1_pkg
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/devel/include
 Libs: -L${prefix}/lib 
 Requires: 

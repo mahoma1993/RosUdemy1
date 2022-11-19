@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/mahoma/Workspace-Prueba/Ros-Prueba/devel:$CMAKE_PREFIX_PATH"
-export PWD='/home/mahoma/Workspace-Prueba/Ros-Prueba/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/mahoma/Workspace-Prueba/Ros-Prueba/devel/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/mahoma/Workspace-Prueba/Ros-Prueba/src:$ROS_PACKAGE_PATH"
+export PWD='/home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build'

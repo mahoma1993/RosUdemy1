@@ -3,7 +3,7 @@
 
 # since this file is sourced either use the provided _CATKIN_SETUP_DIR
 # or fall back to the destination set at configure time
-: ${_CATKIN_SETUP_DIR:=/home/mahoma/Workspace-Prueba/Ros-Prueba/devel}
+: ${_CATKIN_SETUP_DIR:=/home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/devel}
 CATKIN_SETUP_UTIL_ARGS="--extend --local"
 . "$_CATKIN_SETUP_DIR/setup.sh"
 unset CATKIN_SETUP_UTIL_ARGS

@@ -1,0 +1,11 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_mohamad_virtualbox__45427: http://mohamad-VirtualBox:45427/
+rosversion: '1.15.14
+
+  '
+run_id: 9392e9b4-6749-11ed-a399-d78f8f408ae2
+wheel_radius: 0.125

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mahoma/Workspace-Prueba/Ros-Prueba/src
+CMAKE_SOURCE_DIR = /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mahoma/Workspace-Prueba/Ros-Prueba/build
+CMAKE_BINARY_DIR = /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build
 
 # Utility rule file for roscpp_generate_messages_nodejs.
 
@@ -63,10 +63,10 @@ prueba1_pkg/CMakeFiles/roscpp_generate_messages_nodejs.dir/build: roscpp_generat
 .PHONY : prueba1_pkg/CMakeFiles/roscpp_generate_messages_nodejs.dir/build
 
 prueba1_pkg/CMakeFiles/roscpp_generate_messages_nodejs.dir/clean:
-	cd /home/mahoma/Workspace-Prueba/Ros-Prueba/build/prueba1_pkg && $(CMAKE_COMMAND) -P CMakeFiles/roscpp_generate_messages_nodejs.dir/cmake_clean.cmake
+	cd /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build/prueba1_pkg && $(CMAKE_COMMAND) -P CMakeFiles/roscpp_generate_messages_nodejs.dir/cmake_clean.cmake
 .PHONY : prueba1_pkg/CMakeFiles/roscpp_generate_messages_nodejs.dir/clean
 
 prueba1_pkg/CMakeFiles/roscpp_generate_messages_nodejs.dir/depend:
-	cd /home/mahoma/Workspace-Prueba/Ros-Prueba/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mahoma/Workspace-Prueba/Ros-Prueba/src /home/mahoma/Workspace-Prueba/Ros-Prueba/src/prueba1_pkg /home/mahoma/Workspace-Prueba/Ros-Prueba/build /home/mahoma/Workspace-Prueba/Ros-Prueba/build/prueba1_pkg /home/mahoma/Workspace-Prueba/Ros-Prueba/build/prueba1_pkg/CMakeFiles/roscpp_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/src /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/src/prueba1_pkg /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build/prueba1_pkg /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build/prueba1_pkg/CMakeFiles/roscpp_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : prueba1_pkg/CMakeFiles/roscpp_generate_messages_nodejs.dir/depend
 

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mahoma/Workspace-Prueba/Ros-Prueba/src
+CMAKE_SOURCE_DIR = /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mahoma/Workspace-Prueba/Ros-Prueba/build
+CMAKE_BINARY_DIR = /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build
 
 # Utility rule file for std_msgs_generate_messages_cpp.
 
@@ -63,10 +63,10 @@ prueba1_pkg/CMakeFiles/std_msgs_generate_messages_cpp.dir/build: std_msgs_genera
 .PHONY : prueba1_pkg/CMakeFiles/std_msgs_generate_messages_cpp.dir/build
 
 prueba1_pkg/CMakeFiles/std_msgs_generate_messages_cpp.dir/clean:
-	cd /home/mahoma/Workspace-Prueba/Ros-Prueba/build/prueba1_pkg && $(CMAKE_COMMAND) -P CMakeFiles/std_msgs_generate_messages_cpp.dir/cmake_clean.cmake
+	cd /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build/prueba1_pkg && $(CMAKE_COMMAND) -P CMakeFiles/std_msgs_generate_messages_cpp.dir/cmake_clean.cmake
 .PHONY : prueba1_pkg/CMakeFiles/std_msgs_generate_messages_cpp.dir/clean
 
 prueba1_pkg/CMakeFiles/std_msgs_generate_messages_cpp.dir/depend:
-	cd /home/mahoma/Workspace-Prueba/Ros-Prueba/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mahoma/Workspace-Prueba/Ros-Prueba/src /home/mahoma/Workspace-Prueba/Ros-Prueba/src/prueba1_pkg /home/mahoma/Workspace-Prueba/Ros-Prueba/build /home/mahoma/Workspace-Prueba/Ros-Prueba/build/prueba1_pkg /home/mahoma/Workspace-Prueba/Ros-Prueba/build/prueba1_pkg/CMakeFiles/std_msgs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/src /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/src/prueba1_pkg /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build/prueba1_pkg /home/mohamad/Udemy_ws/RosUdemy1/Ros-Prueba/build/prueba1_pkg/CMakeFiles/std_msgs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : prueba1_pkg/CMakeFiles/std_msgs_generate_messages_cpp.dir/depend
 
